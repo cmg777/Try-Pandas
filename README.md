@@ -6,8 +6,6 @@ Video: https://youtu.be/ahyUXSDJW1g
 
 # Try Pandas
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ahyUXSDJW1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Pandas](https://pandas.pydata.org/) is a great tool for doing analysis on spreadsheets.
 
 It's easy to say that but let's actually learn why by doing something real.
