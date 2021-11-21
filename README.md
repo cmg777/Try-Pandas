@@ -1,5 +1,5 @@
 
-[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/cmg777/Try-Pandas) Launch this Github repo in Deepnote
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/cmg777/Try-Pandas) 
 
 [![Try Pandas Logo](https://static.codingforentrepreneurs.com/media/projects/try-pandas/images/share/Try_Pandas_Share.png)](https://www.codingforentrepreneurs.com/projects/try-pandas)
 Video: https://youtu.be/ahyUXSDJW1g
