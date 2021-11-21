@@ -1,6 +1,14 @@
+Launch this Github repo in Deepnote
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/cmg777/Try-Pandas)
+
 [![Try Pandas Logo](https://static.codingforentrepreneurs.com/media/projects/try-pandas/images/share/Try_Pandas_Share.png)](https://www.codingforentrepreneurs.com/projects/try-pandas)
 
 # Try Pandas
+
+Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahyUXSDJW1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Pandas](https://pandas.pydata.org/) is a great tool for doing analysis on spreadsheets.
 
 It's easy to say that but let's actually learn why by doing something real.
@@ -17,4 +25,5 @@ To get started, sign up for Deepnote using this [link](https://deepnote.com/refe
 
 Once you [sign up](https://deepnote.com/referral?token=cfe), you can automagically copy all the code in this repo with the following button:
 
+Launch this original Github repo of code entrepreneurs in Deepnote
 [<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/codingforentrepreneurs/Try-Pandas)
