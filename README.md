@@ -1,11 +1,10 @@
-Launch this Github repo in Deepnote
-[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/cmg777/Try-Pandas)
+
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/cmg777/Try-Pandas) Launch this Github repo in Deepnote
 
 [![Try Pandas Logo](https://static.codingforentrepreneurs.com/media/projects/try-pandas/images/share/Try_Pandas_Share.png)](https://www.codingforentrepreneurs.com/projects/try-pandas)
+Video: https://youtu.be/ahyUXSDJW1g
 
 # Try Pandas
-
-Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahyUXSDJW1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
